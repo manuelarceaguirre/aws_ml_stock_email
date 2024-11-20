@@ -12,3 +12,4 @@ This project is a simple pipeline for predicting stock prices using an XGBoost m
 
 - **Getting Alerts**: If something important happens (like the prediction crossing a threshold), an email alert is sent using Amazon SNS.
 
+![Architecture Diagram](Stockprediction.drawio.png)
